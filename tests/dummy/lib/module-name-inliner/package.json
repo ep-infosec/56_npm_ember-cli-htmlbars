@@ -1,0 +1,8 @@
+{
+  "name": "module-name-inliner",
+  "version": "0.1.0",
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {}
+}
